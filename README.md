@@ -217,5 +217,7 @@ We explain one case by an example .
 
    Files related to this technique are in noise folder.
 
-   Github repo:- [Repo]( https://github.com/sunkustar/Astronomy-images-enhancement)
-8
+## Acknowledgments
+
+We thank the creators of the SR3 PAPER  [Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) as we have taken  foundation modules for this project from them .
+
